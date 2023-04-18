@@ -1,0 +1,11 @@
+D:\Escritorio\pryCuadroDialogo\bin\Debug\pryCuadroDialogo.exe.config
+D:\Escritorio\pryCuadroDialogo\bin\Debug\pryCuadroDialogo.exe
+D:\Escritorio\pryCuadroDialogo\bin\Debug\pryCuadroDialogo.pdb
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.csproj.AssemblyReference.cache
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.csproj.SuggestedBindingRedirects.cache
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.frmPrincipal.resources
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.Properties.Resources.resources
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.csproj.GenerateResource.cache
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.csproj.CoreCompileInputs.cache
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.exe
+D:\Escritorio\pryCuadroDialogo\obj\Debug\pryCuadroDialogo.pdb
